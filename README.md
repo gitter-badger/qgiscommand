@@ -1,5 +1,7 @@
 # QGIS Command Bar
 
+[![Join the chat at https://gitter.im/g-sherman/qgiscommand](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/g-sherman/qgiscommand?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Adds a simple interactive command bar to QGIS.  Commands are defined as Python code and may take arguments.
 
 All functions are interactive and if not all arguments are given will prompt for each one as required.
